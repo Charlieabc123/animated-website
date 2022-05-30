@@ -1,0 +1,8 @@
+#defaultCanvas0 {
+  border-width:2px;
+  border-style: solid;
+  background-color:#f1f1f1;
+}
+#changeColor {
+  display: none;
+}
